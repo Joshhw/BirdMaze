@@ -1,0 +1,10 @@
+ // write your code here
+    for(Bird[] a : start) {
+      Queue<Bird> bQueue = new LinkedList<Bird>();  // create queue to contain bird objects
+      bQueue.offer(start);  // add first bird object aka start to queue
+      for(int i: a) {    //create a for each loop to get each bird object in the maze since 2-d I needed this method
+      int direction = a.getDirection();                      //get direction
+      switch(direction) {                   // depending on direction, calculate where the next bird object is
+        case 0 :                            //  maybe get directional birds and put them in queue?
+          
+      

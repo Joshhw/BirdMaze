@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Solve1.java" package="" timestamp="21-Oct-2014 17:38:51">
+        <select from="1051" to="1051"/>
+        <scroll column="436" row="0"/>
+      </file>
+      <file name="Maze.java" package="" timestamp="24-Oct-2014 11:24:26">
+        <select from="1051" to="1051"/>
+        <scroll column="436" row="0"/>
+      </file>
+      <file name="Bird.java" package="" timestamp="20-Oct-2014 10:39:13">
+        <select from="1051" to="1051"/>
+        <scroll column="436" row="0"/>
+      </file>
+      <file name="Solve2.java" package="" timestamp="24-Oct-2014 10:33:50">
+        <select from="1051" to="1051"/>
+        <scroll column="436" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints>
+      <breakpoint enabled="true" file="Solve1.java" line="31"/>
+    </breakpoints>
+    <watches>
+      <watch name="current"/>
+      <watch name="temp"/>
+    </watches>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
